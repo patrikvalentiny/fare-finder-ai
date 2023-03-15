@@ -1,6 +1,9 @@
 # Flight price prediction
+
+Final project for the Building AI course
+
 ## Summary
-FareFinder AI is an AI-powered project that aims to predict flight prices with accuracy and precision.
+FareFinder AI predicts flight prices accurately using machine learning algorithms and predictive modeling. It helps travelers plan and book their trips by providing up-to-date and reliable information about flight costs, accessible through a website or mobile app
 
 ## Background
 The problem that FareFinder AI aims to solve is the unpredictability and volatility of flight prices. It can be challenging for travelers to determine the best time to book their flights, especially when prices fluctuate frequently. The personal motivation behind this project is to provide travelers with a reliable and trustworthy tool that they can use to plan and book their trips without worrying about the cost of flights.
