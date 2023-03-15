@@ -1,4 +1,4 @@
-# Flight price prediction
+# FareFinderAI
 
 Final project for the Building AI course
 
